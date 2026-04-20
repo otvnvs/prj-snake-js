@@ -2,7 +2,7 @@
 
 A classic, retro-style Snake game built with vanilla JavaScript and HTML5 Canvas. This project was developed to practice game loop logic, coordinate-based collision detection, and clean code principles.
 
-**[Live Demo Link](https://github.io)**
+**[Live Demo Link](https://otvnvs.github.io/prj-snake-js/)**
 
 ## Features
 - **Classic Gameplay:** Navigate the snake to eat food and grow.
